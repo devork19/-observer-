@@ -10,9 +10,9 @@
 
 ## 3. Мотивация
 
-![[Pasted image 20260514141820.png]]
+[![image.png](https://i.postimg.cc/HkQv3vYF/image.png)](https://postimg.cc/5X2m23Fm)
 
-![[Pasted image 20260514141907.png]]
+[![image.png](https://i.postimg.cc/sg6mnFFS/image.png)](https://postimg.cc/TKbnw43Y)
 **Проблема:** Покупатель ходит в магазин каждый день (теряет время) или магазин рассылает спам всем (теряет ресурсы).
 
 **Решение:** Магазин (издатель) ведёт список подписчиков. Покупатель подписывается и получает уведомления только когда товар появился.
@@ -27,7 +27,7 @@
 
 ## 5. Структура
 
-![[Pasted image 20260514142148.png]]
+[![image.png](https://i.postimg.cc/CMG43nTK/image.png)](https://postimg.cc/V5NMM6Ny)
 **Участники:**
 
 | Участник                   | Описание                                                       |
@@ -38,7 +38,7 @@
 | **Client**                 | Создаёт объекты и подписывает их                               |
 
 ## 6. Реализация на Python
-![[Pasted image 20260514142216.png]]
+[![image.png](https://i.postimg.cc/ZnHpC34v/image.png)](https://postimg.cc/n9sCWXsn)
 
 Код под структуру с сайта (издатель, подписчики, клиент):
 
